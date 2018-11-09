@@ -1,16 +1,16 @@
-| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
-| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| 算法[:pencil2:](#pencil2-算法) | 操作系统[:computer:](#computer-操作系统)|网络[:cloud:](#cloud-网络) | 面向对象[:couple:](#couple-面向对象) |数据库[:floppy_disk:](#floppy_disk-数据库)| Java [:coffee:](#coffee-java)| 系统设计[:bulb:](#bulb-系统设计)| 工具[:hammer:](#hammer-工具)| 编码实践[:speak_no_evil:](#speak_no_evil-编码实践)| 后记[:memo:](#memo-后记) |
+| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ  |
+| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:|
+| 算法[:pencil2:](#pencil2-算法) | 操作系统[:computer:](#computer-操作系统)|网络[:cloud:](#cloud-网络) | 面向对象[:couple:](#couple-面向对象) |数据库[:floppy_disk:](#floppy_disk-数据库)| Java [:coffee:](#coffee-java)| 系统设计[:bulb:](#bulb-系统设计)| 工具[:hammer:](#hammer-工具)| 编码实践[:speak_no_evil:](#speak_no_evil-编码实践)|
 
 <br>
 
 ### :pencil2: 算法
 
-- [剑指 Offer 题解]()
+- [剑指 Offer 题解](https://github.com/LuckyGrx/Coding-Interviews)
 
   
 
-- [Leetcode 算法题解]()
+- [Leetcode 算法题解](https://github.com/LuckyGrx/LeetCode-Algorithms)
 
 
   
@@ -56,36 +56,32 @@
 
 - [数据库系统原理]()
 
-  事务、锁、隔离级别、MVCC、间隙锁、范式。
+  事务、锁、隔离级别、MVCC、间隙锁、范式
 
 - [SQL]()
 
-  SQL 基本语法。
+  SQL 基本语法
 
-- [Leetcode 数据库题解]()
+- [Leetcode 数据库题解](https://github.com/LuckyGrx/LeetCode-Database)
 
   Leetcode 上数据库题目的解题记录
 
 - [MySQL]()
 
-  存储引擎、索引、查询优化、切分、复制。
+  存储引擎、索引、查询优化、切分、复制
 
 - [Redis]()
 
-  五种数据类型、字典和跳跃表数据结构、使用场景、和 Memcache 的比较、淘汰策略、持久化、文件事件的 Reactor 模式、复制。
+  五种数据类型、字典和跳跃表数据结构、使用场景、和 Memcache 的比较、淘汰策略、持久化、文件事件的 Reactor 模式、复制
 
 ### :coffee: C++
-
 - [C++ 基础]()
-
-
 
 - [C++ STL]()
 
-
+- [C++ Primer(第五版)课后习题全解](https://github.com/LuckyGrx/CppPrimer)
 
 - [C++ 并发]()
-
 
 
 ### :bulb: 系统设计 
@@ -132,13 +128,13 @@
 
 - [重构]()
 
-  参考 重构 改善既有代码的设计。
+  参考 重构 改善既有代码的设计
 
 - [代码可读性]()
 
-  参考 编写可读代码的艺术。
+  参考 编写可读代码的艺术
 
 - [代码风格规范]()
 
-  Google 开源项目的代码风格规范。
+  Google 开源项目的代码风格规范
 
