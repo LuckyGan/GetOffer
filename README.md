@@ -134,7 +134,7 @@
 
   参考 编写可读代码的艺术
 
-- [代码风格规范](https://github.com/LuckyGrx/CSNotes/blob/master/notes/代码风格规范.md)
+- [代码风格规范](https://github.com/LuckyGrx/CS-Notes/tree/master/Notes/代码风格规范.md)
 
   Google C++ 代码风格规范
 
