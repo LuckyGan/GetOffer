@@ -112,7 +112,7 @@
 
 ### :hammer: 工具 
 
-- [Git]()
+- [Git](https://github.com/LuckyGrx/CS-Notes/tree/master/Notes/Git.md)
 
   一些 Git 的使用和概念。
 
