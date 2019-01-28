@@ -26,6 +26,7 @@ SVN是集中式版本控制系统，Git是分布式版本控制系统。
 新建一个仓库之后，当前目录就成为了工作区，工作区下有一个隐藏目录 .git，它属于 Git 的版本库。
 <div align="center"> <img src="pics/版本库.jpg"/> </div><br>
 Git 版本库中有一个称为 stage 的暂存区，还有自动创建的 master 分支以及指向分支的 HEAD 指针。
+
 - git add file 把文件修改添加到暂存区
 - git commit   把暂存区的所有内容提交到当前分支
 - git commit -a   直接把所有文件的修改添加到暂存区然后执行提交
@@ -34,6 +35,7 @@ Git 版本库中有一个称为 stage 的暂存区，还有自动创建的 maste
 - git log 命令显示从最近到最远的提交日志
 - git log --pretty=online 精简日志信息
 在 Git 中， HEAD 表示当前版本，上一个版本就是 HEAD^，上上个版本就是 HEAD^^，上上上个版本就是 HEAD~3
+
 回退到上一个版本可以使用 git reset 命令
 - git reset --hard HEAD^
 # .gitignore 文件
