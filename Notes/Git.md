@@ -49,6 +49,8 @@ Git 版本库中有一个称为 stage 的暂存区，还有自动创建的 maste
 - git reset --hard HEAD^
 
 # 撤销修改
+- git checkout -- files 撤销文件在工作区的修改(保持工作区和暂存区一致的状态)
+- git reset HEAD files  撤销文件在暂存区的修改，重新放回工作区
 
 # 管理修改
 Git 比其他版本控制系统设计的更优秀的原因：跟踪并管理的是修改，而非文件。
