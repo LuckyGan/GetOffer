@@ -35,7 +35,7 @@ Git 仓库和 Github 中心仓库之间的传输是通过 SSH 加密。
 ```
 $ ssh-keygen -t rsa -C "youremail@example.com"
 ```
-然后把公钥 id_rsa.pub 的内容复制到 Github “Account setting" 的 SSH Keys 中。
+然后把公钥 id_rsa.pub 的内容复制到 Github “SSH and GPG keys" 的 SSH Keys 中。
 # 工作流
 # 版本回退
 - git log 命令显示从最近到最远的提交日志
