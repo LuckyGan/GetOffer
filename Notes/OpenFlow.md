@@ -14,5 +14,11 @@ Reactive 模式：当 OpenFlow 交换机接收到未知数据包时，向 OpenFl
 
 Modify Flow Entry Message 消息(Flow-Mod 消息)是由 OpenFlow 控制器对 OpenFlow 交换机设置流表项的消息。
 
-idle_time：软时间，流表项超过多久时间没有匹配，就删除
-hard_time：硬时间，流表项添加草果多久时间，就删除
+idle_time：软时间，如果与流表项匹配的数据包超过该时间还未到达则删除流表项
+hard_time：硬时间，流表项添加的时间超过该时间则删除流表项
+
+
+使用 Packet-In 消息的目的是为了将到达 OpenFlow 交换机的数据包发送至 OpenFlow 控制器。
+Packet-Out 消息是从 OpenFlow 控制器向 OpenFlow 交换机发送的消息，是包含数据包发送命令的消息。
+
+LLDP 是数据链路层的协议，用于对数据链路层的连接进行检测、管理。OpenFlow 控制器利用 LLDP 来检测网络拓扑结构。
