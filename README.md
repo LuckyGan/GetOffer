@@ -41,6 +41,7 @@
   I/O 模型、I/O 多路复用
 
 - [OpenFlow](https://github.com/LuckyGrx/CS-Notes/tree/master/Notes/OpenFlow.md)
+  SDN 南向协议
 
 ### :couple: 面向对象
 
@@ -120,10 +121,6 @@
 
   正则表达式基本语法。
 
-- [构建工具]()
-
-  构建工具的基本概念、主流构建工具介绍。
-
 ### :speak_no_evil: 编码实践 
 
 - [重构]()
@@ -136,5 +133,5 @@
 
 - [代码风格规范](https://github.com/LuckyGrx/CS-Notes/tree/master/Notes/代码风格规范.md)
 
-  Google C++ 代码风格规范
+  Google C++、Python 代码风格规范
 
