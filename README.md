@@ -24,7 +24,7 @@
 
   
 
-- [Linux]()
+- [Linux](https://github.com/LuckyGrx/CS-Notes/tree/master/Notes/Linux.md)
 
 
 
