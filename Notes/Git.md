@@ -53,11 +53,11 @@ Git 比其他版本控制系统设计的更优秀的原因：跟踪并管理的�
 # 分支管理
 # 创建与合并分支
 - git branch 查看分支
-- git branch <name> 创建分支
-- git checkout <name> 切换分支
-- git checkout -b <name> 创建+切换分支
-- git merge <name> 合并某分支到当前分支
-- git branch -d <name> 删除分支
+- git branch \<name> 创建分支
+- git checkout \<name> 切换分支
+- git checkout -b \<name> 创建+切换分支
+- git merge \<name> 合并某分支到当前分支
+- git branch -d \<name> 删除分支
 
 # 解决冲突
 当两个分支都对同一个文件的同一行进行了修改，在分支合并时就会产生冲突。
